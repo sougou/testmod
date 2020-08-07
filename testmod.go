@@ -4,5 +4,5 @@ package testmod
 import "fmt"
 
 func Hello() {
-	fmt.Printf("Hello 0.3.0\n")
+	fmt.Printf("Hello 0.4.0\n")
 }
